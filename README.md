@@ -1,6 +1,17 @@
 Awesome Library Tools and Resources
 ===================================
 
+More and more tools and projects by and for libraries are becoming available on
+the internet. We would like to curate a list of various software, tools,
+resources and projects, which are useful when working within a library context.
+
+At the moment, this is a single list, but at some point, we should group the
+links as some categories emerge.
+
+Contributions welcome.
+
+----
+
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
 * [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
 * [marctools](https://github.com/ubleipzig/marctools) -  Various MARC command line utilities.
