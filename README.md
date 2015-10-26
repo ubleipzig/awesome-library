@@ -13,12 +13,14 @@ Contributions welcome.
 ----
 
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
+* [DAIA](https://github.com/gbv/daia) - Specification of [Document Availability Information (DAIA)](http://gbv.github.io/daia).
 * [elasticsearch](https://www.elastic.co/) - Distributed, scalable, and highly available search index.
 * [esbulk](https://github.com/miku/esbulk) - Parallel elasticsearch bulk indexing utility for the command line.
 * [Koha](http://koha-community.org/) - Koha is a fully featured, scalable library management system.
 * [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
 * [marctools](https://github.com/ubleipzig/marctools) -  Various MARC command line utilities.
 * [Metafacture](https://github.com/culturegraph/metafacture-core) - A toolkit for processing semi-structured data with a focus on library metadata.
+* [PAIA](https://github.com/gbv/paia) - The [Patrons Account Information API (PAIA)](http://gbv.github.io/paia/paia.html) is a HTTP based programming interface to access library patron information, such as loans, reservations, and fees.
 * [pymarc](https://github.com/edsu/pymarc) - pymarc is a python library for working with bibliographic data encoded in MARC21.
 * [RecordManager](https://github.com/NatLibFi/RecordManager) - A metadata record management system written in PHP, intended to be used in conjunction with VuFind or another Solr-based discovery interface.
 * [SOLR](http://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene.
