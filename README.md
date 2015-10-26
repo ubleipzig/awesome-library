@@ -1,5 +1,5 @@
-Awesome Library Software, Tools and Resources
-=============================================
+Awesome Library Tools and Resources
+===================================
 
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
 * [marctools](https://github.com/ubleipzig/marctools) -  Various MARC command line utilities.
