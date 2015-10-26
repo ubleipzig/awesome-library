@@ -2,6 +2,7 @@ Awesome Library Tools and Resources
 ===================================
 
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
+* [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
 * [marctools](https://github.com/ubleipzig/marctools) -  Various MARC command line utilities.
 * [Metafacture](https://github.com/culturegraph/metafacture-core) - A toolkit for processing semi-structured data with a focus on library metadata.
 * [pymarc](https://github.com/edsu/pymarc) - pymarc is a python library for working with bibliographic data encoded in MARC21.
