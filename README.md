@@ -15,6 +15,7 @@ Contributions welcome.
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
 * [elasticsearch](https://www.elastic.co/) - Distributed, scalable, and highly available search index.
 * [esbulk](https://github.com/miku/esbulk) - Parallel elasticsearch bulk indexing utility for the command line.
+* [Koha](http://koha-community.org/) - Koha is a fully featured, scalable library management system.
 * [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
 * [marctools](https://github.com/ubleipzig/marctools) -  Various MARC command line utilities.
 * [Metafacture](https://github.com/culturegraph/metafacture-core) - A toolkit for processing semi-structured data with a focus on library metadata.
