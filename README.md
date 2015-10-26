@@ -25,6 +25,7 @@ Contributions welcome.
 * [solrbulk](https://github.com/miku/solrbulk) - SOLR bulk indexing utility for the command line.
 * [SolrMarc](https://github.com/solrmarc/solrmarc) - SolrMarc is a utility that reads in MaRC records from a file, extracts
 information from various fields as specified in an indexing configuration
+* [Tika](https://tika.apache.org/) - The Apache Tika™ toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 script, and adds that information to a specified Apache Solr index.
 * [VuFind](https://github.com/vufind-org/vufind/) - A library resource discovery portal designed and developed for libraries by libraries.
 * [yaz](http://www.indexdata.com/yaz) - YAZ is a programmers toolkit supporting the development of Z39.50/SRW/SRU clients and servers.
