@@ -10,6 +10,8 @@ links as some categories emerge.
 
 Contributions welcome.
 
+Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+
 ----
 
 * [Catmandu](https://metacpan.org/pod/Catmandu) - Catmandu provides a suite of Perl modules to ease the import, storage, retrieval, export and transformation of metadata records.
