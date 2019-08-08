@@ -10,7 +10,7 @@ links as some categories emerge.
 
 Contributions welcome.
 
-Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+Inspired by [these curated collections](https://github.com/sindresorhus/awesome). Also note [awesome-rse](https://github.com/geyslein/awesome-rse) for a list of resources for Research Software Engineers and Engineering (RSE).
 
 ----
 
