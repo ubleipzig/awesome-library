@@ -14,6 +14,7 @@ Inspired by [these curated collections](https://github.com/sindresorhus/awesome)
 - [DAIA](https://github.com/gbv/daia) - Specification of [Document Availability Information (DAIA)](http://gbv.github.io/daia).
 - [elasticsearch](https://www.elastic.co/) - Distributed, scalable, and highly available search index.
 - [esbulk](https://github.com/miku/esbulk) - Parallel elasticsearch bulk indexing utility for the command line.
+- [FOLIO](https://www.folio.org/) - FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform.
 - [Koha](http://koha-community.org/) - Koha is a fully featured, scalable library management system.
 - [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
 - [marctools](https://github.com/ubleipzig/marctools) - Various MARC command line utilities.
