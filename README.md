@@ -48,7 +48,7 @@ The list here is based on the excellent [Analysis on Open Source Publishing Tool
 - [Hypher](https://github.com/bramstein/hypher)
 - [Hypothesis](https://web.hypothes.is/)
 - [Janeway](https://janeway.systems/)
-- [Jupyter Notebooks](http://jupyter.org/)
+- [Jupyter Notebooks](http://jupyter.org/), [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [KaTeX](https://katex.org/)
 - [le-tex Transpect](https://transpect.github.io/)
 - [Lens](https://lens.elifesciences.org/about/#info/all)
