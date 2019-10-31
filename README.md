@@ -34,6 +34,7 @@ Inspired by [these curated collections](https://github.com/sindresorhus/awesome)
 
 The list here is based on the excellent [Analysis on Open Source Publishing Tools](https://mindthegap.pubpub.org/) of John W Maxwell, Erik Hanson, Leena Desai, Carmen Tiampo, Kim O'Donnell, Avvai Ketheeswaran, Melody Sun, Emma Walter, Ellen Michelle from Simon Fraser University.
 
+- [Dat Project](https://dat.foundation/), [An open and decentralized research data tool](https://www.nature.com/articles/sdata2018221)
 - [Dokieli](https://dokie.li/)
 - [Editoria](https://editoria.pub/)
 - [Electric Book](http://electricbook.works/)
