@@ -27,6 +27,7 @@ Inspired by [these curated collections](https://github.com/sindresorhus/awesome)
 - [solrbulk](https://github.com/miku/solrbulk) - SOLR bulk indexing utility for the command line.
 - [SolrMarc](https://github.com/solrmarc/solrmarc) - SolrMarc is a utility that reads in MaRC records from a file, extracts information from various fields as specified in an indexing configuration script, and adds that information to a specified Apache Solr index.
 - [Tika](https://tika.apache.org/) - The Apache Tika™ toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+- [VideLibri](https://github.com/benibela/videlibri) - Download lists of book metadata from a library catalog/opac for offline use, renew borrowed books and notify about due dates. 
 - [VuFind](https://github.com/vufind-org/vufind/) - A library resource discovery portal designed and developed for libraries by libraries.
 - [yaz](http://www.indexdata.com/yaz) - YAZ is a programmers toolkit supporting the development of Z39.50/SRW/SRU clients and servers.
 
