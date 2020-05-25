@@ -14,6 +14,7 @@ Inspired by [these curated collections](https://github.com/sindresorhus/awesome)
 - [DAIA](https://github.com/gbv/daia) - Specification of [Document Availability Information (DAIA)](http://gbv.github.io/daia).
 - [elasticsearch](https://www.elastic.co/) - Distributed, scalable, and highly available search index.
 - [esbulk](https://github.com/miku/esbulk) - Parallel elasticsearch bulk indexing utility for the command line.
+- [esdump](https://github.com/miku/esdump) - Export data from elasticsearch.
 - [Fatcat.wiki](https://fatcat.wiki/) - Fatcat is a versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets.
 - [FOLIO](https://www.folio.org/) - FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform.
 - [Koha](http://koha-community.org/) - Koha is a fully featured, scalable library management system.
@@ -25,9 +26,10 @@ Inspired by [these curated collections](https://github.com/sindresorhus/awesome)
 - [RecordManager](https://github.com/NatLibFi/RecordManager) - A metadata record management system written in PHP, intended to be used in conjunction with VuFind or another Solr-based discovery interface.
 - [SOLR](http://lucene.apache.org/solr/) - Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene.
 - [solrbulk](https://github.com/miku/solrbulk) - SOLR bulk indexing utility for the command line.
+- [solrdump](https://github.com/ubleipzig/solrdump) - Export documents from SOLR fast.
 - [SolrMarc](https://github.com/solrmarc/solrmarc) - SolrMarc is a utility that reads in MaRC records from a file, extracts information from various fields as specified in an indexing configuration script, and adds that information to a specified Apache Solr index.
 - [Tika](https://tika.apache.org/) - The Apache Tika™ toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
-- [VideLibri](https://github.com/benibela/videlibri) - Download lists of book metadata from a library catalog/opac for offline use, renew borrowed books and notify about due dates. 
+- [VideLibri](https://github.com/benibela/videlibri) - Download lists of book metadata from a library catalog/opac for offline use, renew borrowed books and notify about due dates.
 - [VuFind](https://github.com/vufind-org/vufind/) - A library resource discovery portal designed and developed for libraries by libraries.
 - [yaz](http://www.indexdata.com/yaz) - YAZ is a programmers toolkit supporting the development of Z39.50/SRW/SRU clients and servers.
 
